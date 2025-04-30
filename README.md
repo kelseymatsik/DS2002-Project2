@@ -1,4 +1,4 @@
-## Capstone (Final) Project for DS2002: Data Science Systems 
+# DS2002: Data Science Systems Capstone (Final) Project
 ### Repository Contents 
 * **Project2.ipynb:** Jupyter notebook containing code used to design and populate Sakila Data Lakehouse in Azure Databricks
 * **dbfs_files:** CSV files containing dimension tables read in from Azure Databricks DBFS (local file system)
